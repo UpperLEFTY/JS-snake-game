@@ -2,3 +2,5 @@
 <html>
 <head>
   <link rel="stylesheet" href="./snake.css">
+</head>
+<body>
