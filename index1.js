@@ -2,4 +2,4 @@
 Namespace
 */
 var Game     = Game         || {};
-var Keyboard
+var Keyboard = Keyboard     || {};
