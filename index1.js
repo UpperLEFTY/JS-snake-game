@@ -3,4 +3,4 @@ Namespace
 */
 var Game     = Game         || {};
 var Keyboard = Keyboard     || {};
-var Component
+var Component = Com
