@@ -1,4 +1,4 @@
-//**
+/**
 * Namespace
 */
 var Game     = Game         || {};
