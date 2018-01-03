@@ -7,4 +7,4 @@ var Component = Component   || {};
 
 /**
 
-*Ke
+*Key
