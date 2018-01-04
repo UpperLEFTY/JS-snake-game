@@ -37,3 +37,9 @@ Keyboard.ControllerEvents = function() {
   document.onkeydown = function(event) {
   self.pressKey = Event.which;
   
+  };
+  
+  
+  // Get Key
+  this.getKey = function() {
+  
