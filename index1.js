@@ -35,4 +35,5 @@ Keyboard.ControllerEvents = function() {
   
   // Keydown Event
   document.onkeydown = function(event) {
+  self.preskey
   
