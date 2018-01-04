@@ -35,12 +35,16 @@ Keyboard.ControllerEvents = function() {
   
   // Keydown Event
   document.onkeydown = function(event) {
-  self.pressKey = Event.which;
+    self.pressKey = Event.which;
   
   };
   
   
   // Get Key
   this.getKey = function() {
-  return this.key
+    return this.keymap[this.pressKey];
+  };
+};
+
+   
   
