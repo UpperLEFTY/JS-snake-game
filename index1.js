@@ -58,6 +58,10 @@ Component.Stage = function(canvas, conf)  {
   this.Keyevent =  new Keyboard.ControllerEvents();
   this.width =  canvas.width;
   this.height =  canvas.height;
+  this.length =  [];
+  this.food =   {};
+  this.score =  0;
+  
   
    
   
