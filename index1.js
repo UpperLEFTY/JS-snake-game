@@ -61,6 +61,13 @@ Component.Stage = function(canvas, conf)  {
   this.length =  [];
   this.food =   {};
   this.score =  0;
+  this.direction =  'right';
+  this.conf =   {
+    
+    cw  : 10;
+    size : 5;
+    fps  : 1000;
+    
   
   
    
