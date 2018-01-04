@@ -42,4 +42,5 @@ Keyboard.ControllerEvents = function() {
   
   // Get Key
   this.getKey = function() {
+  return this.key
   
