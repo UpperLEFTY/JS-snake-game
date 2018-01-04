@@ -46,5 +46,13 @@ Keyboard.ControllerEvents = function() {
   };
 };
 
+/**
+
+* Game Component Stage
+
+*/
+
+Component.Stage = function(canvas, conf)  {
+  
    
   
