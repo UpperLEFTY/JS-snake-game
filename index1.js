@@ -55,9 +55,9 @@ Keyboard.ControllerEvents = function() {
 Component.Stage = function(canvas, conf)  {
   
   // Sets
-  this.Keyevent = new Keyboard.ControllerEvents();
-  this.width = canvas.width;
-  this.height =
+  this.Keyevent =  new Keyboard.ControllerEvents();
+  this.width =  canvas.width;
+  this.height =  canvas.height;
   
    
   
