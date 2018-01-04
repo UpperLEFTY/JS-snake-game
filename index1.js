@@ -31,5 +31,5 @@ Keyboard.ControllerEvents = function() {
   // Setts
   var self = this;
   this.pressKey = null;
-  this.keymap = Keyboard.
+  this.keymap = Keyboard.Keymap;
   
