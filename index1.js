@@ -20,4 +20,16 @@ Keyboard.Keymap = {
   
 };
 
+/**
+
+* Keyboard Events
+
+*/
+
+Keyboard.ControllerEvents = function() {
+  
+  // Setts
+  var self = this;
+  this.pressKey = null;
+  this.keymap = Keyboard.
   
