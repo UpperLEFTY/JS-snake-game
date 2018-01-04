@@ -33,3 +33,6 @@ Keyboard.ControllerEvents = function() {
   this.pressKey = null;
   this.keymap = Keyboard.Keymap;
   
+  // Keydown Event
+  document.onkeydown = function(event) {
+  
