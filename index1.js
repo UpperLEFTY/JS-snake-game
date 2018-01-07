@@ -102,7 +102,7 @@ for (var i = 0; i < this.stage.conf.size; i++)  {
   
 
 // Add Snake Cells
-this.stage.
+this.stage.length.push
   
     
   
