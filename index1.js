@@ -97,8 +97,11 @@ this.stage  = new Component.Stage(canvas, conf);
 this.initSnake  = function()  {
   
 
-//Itaration in Snake Conf Size
+// Itaration in Snake Conf Size
 for (var i = 0; i < this.stage.conf.size; i++)  {
+  
+
+//
   
     
   
