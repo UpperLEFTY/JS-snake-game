@@ -89,7 +89,10 @@ Component.Stage = function(canvas, conf)  {
 Component.Snake = function(canvas, conf);   
 
 // Game Stage
-this.stage
+this.stage  = new Component.Stage(canvas, conf);
+
+// Init Snake
+this.initSnake  =
     
   
   
