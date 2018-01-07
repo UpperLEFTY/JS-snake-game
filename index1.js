@@ -92,7 +92,8 @@ Component.Snake = function(canvas, conf);
 this.stage  = new Component.Stage(canvas, conf);
 
 // Init Snake
-this.initSnake  =
+this.initSnake  = function()  {
+  
     
   
   
