@@ -88,11 +88,17 @@ Component.Stage = function(canvas, conf)  {
 */
 Component.Snake = function(canvas, conf);   
 
+
 // Game Stage
 this.stage  = new Component.Stage(canvas, conf);
 
+
 // Init Snake
 this.initSnake  = function()  {
+  
+
+//Itaration in Snake Conf Size
+for (var i = 0; i < this.
   
     
   
