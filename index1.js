@@ -71,6 +71,8 @@ Component.Stage = function(canvas, conf)  {
   };
   
   //Merge Conf
+  
+ if(typeof 
     
   
   
