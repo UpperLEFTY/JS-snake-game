@@ -68,7 +68,7 @@ Component.Stage = function(canvas, conf)  {
     size : 5;
     fps  : 1000;
     
-  };
+  }
     
   
   
