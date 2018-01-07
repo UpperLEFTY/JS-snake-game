@@ -74,7 +74,7 @@ Component.Stage = function(canvas, conf)  {
   
  if (typeof conf == 'object')  {
    for  (var in key conf) {
-     if (conf.hasOwn
+     if (conf.hasOwnProperty(key)
     
   
   
