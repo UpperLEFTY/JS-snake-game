@@ -76,6 +76,11 @@ Component.Stage = function(canvas, conf)  {
    for  (var in key conf) {
      if (conf.hasOwnProperty(key))  {
        this.conf[key] = conf[key];
+     }
+   }
+ }
+    
+};
     
   
   
