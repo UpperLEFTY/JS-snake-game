@@ -69,6 +69,8 @@ Component.Stage = function(canvas, conf)  {
     fps  : 1000;
     
   };
+  
+  //Merge Conf
     
   
   
