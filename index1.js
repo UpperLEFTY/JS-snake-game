@@ -81,6 +81,15 @@ Component.Stage = function(canvas, conf)  {
  }
     
 };
+
+
+/**
+* Game Component Snake
+*/
+Component.Snake = function(canvas, conf);   
+
+// Game Stage
+this.stage
     
   
   
