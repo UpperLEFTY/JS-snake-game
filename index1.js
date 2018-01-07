@@ -98,7 +98,7 @@ this.initSnake  = function()  {
   
 
 //Itaration in Snake Conf Size
-for (var i = 0; i < this.stage.conf.size;
+for (var i = 0; i < this.stage.conf.size; i++)  {
   
     
   
