@@ -101,7 +101,8 @@ this.initSnake  = function()  {
 for (var i = 0; i < this.stage.conf.size; i++)  {
   
 
-//
+// Add Snake Cells
+this.
   
     
   
