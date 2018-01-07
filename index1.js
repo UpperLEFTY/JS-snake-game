@@ -70,7 +70,7 @@ Component.Stage = function(canvas, conf)  {
     
   };
   
-  //Merge Conf
+  // Merge Conf
   
  if (typeof conf == 'object')  {
    for  (var in key conf) {
