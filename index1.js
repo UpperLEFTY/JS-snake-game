@@ -116,6 +116,8 @@ this.initSnake();
 // Init Food
 this.initFood = function() {
   
+  // Add food on the stage
+  
   
    
   
