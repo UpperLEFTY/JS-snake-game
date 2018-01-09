@@ -119,7 +119,7 @@ this.initFood = function() {
   // Add food on the stage
     this.stage.food = {
       
- x:
+ x: Math.round.
   
    
   
