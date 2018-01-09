@@ -123,5 +123,8 @@ x: Math.round(Math.random() * (this.stage.width - this.stage.conf.cw) / this.sta
 y: Math.round(Math.random() * (this.stage.height - this.stage.conf.cw) / this.stage.conf.cw),
   };
 };
+
+// Init Food
+this.initFood();
    
   
