@@ -129,6 +129,8 @@ this.initFood();
 
 
 // Restart Stage
- this.
+ this.restart = function() {
+ 
+   
    
   
