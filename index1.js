@@ -114,7 +114,7 @@ this.initSnake();
 
 
 // Init Food
-this.init
+this.initFood
   
   
    
