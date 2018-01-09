@@ -110,6 +110,7 @@ this.stage.length.push({x: i, y:0});
    
 
 // Call init Snake
+this.init
   
   
    
