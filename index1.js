@@ -119,7 +119,7 @@ this.initFood = function() {
   // Add food on the stage
     this.stage.food = {
       
- x: Math.round(Math.random() * (this.stage.width
+ x: Math.round(Math.random() * (this.stage.width - this.stage.conf.cw) / this.stage.width.cw),
   
    
   
