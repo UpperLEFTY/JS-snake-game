@@ -132,6 +132,10 @@ this.initFood();
  this.restart = function() {
    
  this.stage.length          = [];
+ this.stage.food            = {};
+ this.stage.score           = 0;
+ this.stage.direction       = 'right';
+ this.stage.
  
    
    
