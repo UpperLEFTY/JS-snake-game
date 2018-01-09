@@ -135,7 +135,7 @@ this.initFood();
  this.stage.food            = {};
  this.stage.score           = 0;
  this.stage.direction       = 'right';
- this.stage.
+ this.stage.keyEvent.pressKey = null
  
    
    
