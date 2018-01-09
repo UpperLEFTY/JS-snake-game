@@ -130,6 +130,8 @@ this.initFood();
 
 // Restart Stage
  this.restart = function() {
+   
+ this.stage
  
    
    
