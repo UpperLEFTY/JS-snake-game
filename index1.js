@@ -126,5 +126,9 @@ y: Math.round(Math.random() * (this.stage.height - this.stage.conf.cw) / this.st
 
 // Init Food
 this.initFood();
+
+
+// Restart Stage
+ this.
    
   
