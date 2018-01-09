@@ -150,7 +150,7 @@ Game.Draw = function(context,snake) {
   
   
   // Draw Stage
-  this.drawStage
+  this.drawStage  = function()  {
 
 
 
