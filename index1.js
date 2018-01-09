@@ -121,6 +121,7 @@ this.initFood = function() {
       
 x: Math.round(Math.random() * (this.stage.width - this.stage.conf.cw) / this.stage.conf.cw),
 y: Math.round(Math.random() * (this.stage.height - this.stage.conf.cw) / this.stage.conf.cw),
-  
+  };
+};
    
   
