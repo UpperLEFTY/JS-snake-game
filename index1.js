@@ -136,6 +136,26 @@ this.initFood();
  this.stage.score           = 0;
  this.stage.direction       = 'right';
  this.stage.keyEvent.pressKey = null
+ this.initSnake();
+ this.initFood();
+ 
+   };
+
+  };
+
+/**
+* Game Draw
+ */
+Game.Draw = function(context,snake) {
+  
+  
+  // Draw Stage
+
+
+
+
+
+
  
    
    
