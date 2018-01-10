@@ -167,7 +167,7 @@ Game.Draw = function(context,snake) {
     context.fillRect(0, 0, snake.stage.width, snake.stage.height);
     
     // Snake Position
-    var nx
+    var nx = snake.stage.length[0].x;
     
 
 
