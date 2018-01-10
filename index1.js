@@ -166,6 +166,9 @@ Game.Draw = function(context,snake) {
     context.fillStyle = "white";
     context.fillRect(0, 0, snake.stage.width, snake.stage.height);
     
+    // Snake Position
+    var nx
+    
 
 
 
