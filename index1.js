@@ -171,7 +171,8 @@ Game.Draw = function(context,snake) {
     var ny = snake.stage.length[0].y;
     
     // Add position by stage direction
-    
+     switch (snake.stage.direction) {
+         
     
 
 
