@@ -220,7 +220,8 @@ Game.Draw = function(context,snake) {
   
   
   // Draw Food
-  this.drawCell(snake.stage.food
+  this.drawCell(snake.stage.food.x, snake.stage.food.y);
+  
   
   
   
