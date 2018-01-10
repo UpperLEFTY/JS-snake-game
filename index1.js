@@ -151,6 +151,10 @@ Game.Draw = function(context,snake) {
   
   // Draw Stage
   this.drawStage  = function()  {
+    
+  
+  // Check Keypress and Set Stage direction
+    var
 
 
 
