@@ -186,6 +186,9 @@ Game.Draw = function(context,snake) {
          break;
      }
     
+    // Check Collision
+    if
+    
     
        
          
