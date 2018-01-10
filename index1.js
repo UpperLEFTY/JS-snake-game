@@ -195,6 +195,7 @@ Game.Draw = function(context,snake) {
     // Logic of Snake Food
     if (nx == snake.stage.food.x && ny == snake.stage.food.y) {
       var tail =  {x: nx, y: ny};
+      snake.stage.score
       
        
          
