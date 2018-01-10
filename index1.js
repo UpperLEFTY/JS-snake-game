@@ -193,7 +193,7 @@ Game.Draw = function(context,snake) {
     }
     
     // Logic of Snake Food
-    if (nx == 
+    if (nx == snake.stage.food.x
        
          
          
