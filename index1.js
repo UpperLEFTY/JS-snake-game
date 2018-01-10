@@ -168,6 +168,10 @@ Game.Draw = function(context,snake) {
     
     // Snake Position
     var nx = snake.stage.length[0].x;
+    var ny = snake.stage.length[0].y;
+    
+    // Add position by stage direction
+    
     
 
 
