@@ -188,7 +188,7 @@ Game.Draw = function(context,snake) {
     
     // Check Collision
     if  (this.collision(nx, ny) == true)  {
-    
+      snake.restart();
     
        
          
