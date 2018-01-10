@@ -172,10 +172,38 @@ Game.Draw = function(context,snake) {
     
     // Add position by stage direction
      switch (snake.stage.direction) {
-       case  'right':
-        nx++;
-        break;
+       case 'right':
+         nx++;
+         break;
+       case 'left':
+         nx--;
+         break;
+       case 'up':
+         ny--;
+         break;
+       case 'down':
+         ny++;
+         break;
+     }
+    
+    
+       
          
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        
+       
          
     
 
