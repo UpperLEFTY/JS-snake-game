@@ -195,7 +195,20 @@ Game.Draw = function(context,snake) {
     // Logic of Snake Food
     if (nx == snake.stage.food.x && ny == snake.stage.food.y) {
       var tail =  {x: nx, y: ny};
-      snake.stage.score
+      
+      snake.stage.score++;
+      
+      snake.initFood();
+    
+    } else  }
+    
+    var tail = snake.stage.length.pop();
+     tail.x = nx;
+     tail.y = ny;
+    
+  }
+  
+  snake.stage.length.unshift(tail);
       
        
          
