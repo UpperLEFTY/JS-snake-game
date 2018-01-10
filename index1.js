@@ -192,6 +192,8 @@ Game.Draw = function(context,snake) {
       return;
     }
     
+    // Logic of Snake Food
+    if
        
          
          
