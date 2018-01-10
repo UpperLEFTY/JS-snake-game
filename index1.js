@@ -209,6 +209,10 @@ Game.Draw = function(context,snake) {
   }
   
   snake.stage.length.unshift(tail);
+  
+  
+  // Draw Snake
+  for (var i = 0; i < snake.stage.length.length;  i++) {
       
        
          
