@@ -213,7 +213,27 @@ Game.Draw = function(context,snake) {
   
   // Draw Snake
   for (var i = 0; i < snake.stage.length.length;  i++) {
-      
+      var cell =  snake.stage.length[i];
+    this.drawCell(cell.x, cell.y);
+    
+  }
+  
+  
+  // Draw Food
+  this.drawCell(snake.stage.food
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
        
          
          
