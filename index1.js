@@ -155,6 +155,9 @@ Game.Draw = function(context,snake) {
   
   // Check Keypress and Set Stage direction
   var keyPress =  snake.stage.keyEvent.getKey();
+    
+  if  (typeof(keyPress) != 'undefined') {
+    
 
 
 
