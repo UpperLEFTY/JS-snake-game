@@ -187,7 +187,7 @@ Game.Draw = function(context,snake) {
      }
     
     // Check Collision
-    if
+    if  (this.collision(nx, ny) == true)  {
     
     
        
