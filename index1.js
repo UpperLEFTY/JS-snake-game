@@ -231,7 +231,8 @@ Game.Draw = function(context,snake) {
 // Draw Cell
 this.drawCell = function(x, y)  {
   context.fillStyle = 'rgb(170, 170, 170)';
-  content.beginPath();
+  context.beginPath();
+  
   
   
   
