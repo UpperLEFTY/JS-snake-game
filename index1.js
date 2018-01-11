@@ -254,7 +254,9 @@ this.collision = function(nx, ny) {
 /**
 * Game Snake
  */
-Game.Snake  =
+Game.Snake  = function(elementID, conf) {
+    
+// Sets
        
   
   
