@@ -238,6 +238,8 @@ this.drawCell = function(x, y)  {
   
 };
   
+// Check Collision with walls
+this.
   
   
   
