@@ -240,7 +240,17 @@ this.drawCell = function(x, y)  {
   
 // Check Collision with walls
 this.collision = function(nx, ny) {
-  if  (nx ==-1 || nx == (snake.stage.width  / snake.stage.conf.cw)
+  if  (nx ==-1 || nx == (snake.stage.width  / snake.stage.conf.cw)  || ny ==-1  || ny == (snake.stage.height /  snake.stage.conf.cw)
+       return true;
+       
+       }
+       
+       return false;
+       
+       }
+       
+       };
+       
   
   
   
