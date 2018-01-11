@@ -260,7 +260,7 @@ Game.Snake  = function(elementId, conf) {
     
 var canvas  = document.getElementById(elementId);
 var context = canvas.getContext("2d");
-       
+var snake
   
   
   
