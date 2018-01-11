@@ -254,9 +254,11 @@ this.collision = function(nx, ny) {
 /**
 * Game Snake
  */
-Game.Snake  = function(elementID, conf) {
+Game.Snake  = function(elementId, conf) {
     
 // Sets
+    
+var canvas  = document.getElementById(elementId);
        
   
   
