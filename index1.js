@@ -266,7 +266,7 @@ var gameDraw  = Game.Draw(context.snake);
 
 // Game Interval
     
- setInterval(function() {gameDraw.drawStage();}, snake.stage.conf
+ setInterval(function() {gameDraw.drawStage();}, snake.stage.conf.fps);
   
   
   
