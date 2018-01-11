@@ -251,6 +251,11 @@ this.collision = function(nx, ny) {
        
        };
        
+/**
+* Game Snake
+ */
+Game.Snake  =
+       
   
   
   
