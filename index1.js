@@ -223,6 +223,10 @@ Game.Draw = function(context,snake) {
   this.drawCell(snake.stage.food.x, snake.stage.food.y);
   
   
+  // Draw Score
+  context.fillText('Score: ' +
+  
+  
   
   
   
