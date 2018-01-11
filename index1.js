@@ -225,6 +225,7 @@ Game.Draw = function(context,snake) {
   
   // Draw Score
   context.fillText('Score: ' + snake.stage.score, 5, (snake.stage.height -5));
+
 };
 
 
@@ -235,6 +236,7 @@ this.drawCell = function(x, y)  {
   context.arc((x * snake.stage.conf.cw + 6), (y * snake.stage.conf.cw + 6), 4, 0, 2*Math.PI, false);
   context.fill();
   
+};
   
   
   
