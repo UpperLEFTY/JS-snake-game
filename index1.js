@@ -230,7 +230,7 @@ Game.Draw = function(context,snake) {
 
 // Draw Cell
 this.drawCell = function(x, y)  {
-  content.fillStyle
+  context.fillStyle
   
   
   
