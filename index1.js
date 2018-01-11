@@ -224,7 +224,7 @@ Game.Draw = function(context,snake) {
   
   
   // Draw Score
-  context.fillText('Score: ' +
+  context.fillText('Score: ' + snake.stage.score,
   
   
   
