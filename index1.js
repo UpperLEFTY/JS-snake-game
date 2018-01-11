@@ -232,7 +232,7 @@ Game.Draw = function(context,snake) {
 this.drawCell = function(x, y)  {
   context.fillStyle = 'rgb(170, 170, 170)';
   context.beginPath();
-  context.arc((
+  context.arc((x * snake.stage.conf
   
   
   
