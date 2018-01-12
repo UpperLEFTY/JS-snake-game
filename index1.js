@@ -274,7 +274,7 @@ var gameDraw  = Game.Draw(context.snake);
 * Window Load
   */
   
-  window.onload = function
+  window.onload = function()  {
   
   
   
