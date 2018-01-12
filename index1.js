@@ -268,6 +268,8 @@ var gameDraw  = Game.Draw(context.snake);
     
  setInterval(function() {gameDraw.drawStage();}, snake.stage.conf.fps);
   
+  }
+  
   
   
   
