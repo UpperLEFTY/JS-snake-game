@@ -272,6 +272,9 @@ var gameDraw  = Game.Draw(context.snake);
   
 /**
 * Window Load
+  */
+  
+  window
   
   
   
