@@ -276,7 +276,7 @@ var gameDraw  = Game.Draw(context.snake);
   
   window.onload = function()  {
     
-    var snake = Game.Snake('stage', {fps: 100, size:
+    var snake = Game.Snake('stage', {fps: 100, size:  4
   
   
   
